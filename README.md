@@ -3,7 +3,7 @@
 ![React](https://img.shields.io/badge/React-18-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
 ![Vite](https://img.shields.io/badge/Vite-4.x-purple)
-![Image Search App Preview](./assets/photo_5433786001072524628_x.jpg)
+![Image Sip Happens Café Preview](./assets/photo_5433786001072524628_x.jpg)
 
 ## 📌 About
 
